@@ -32,5 +32,5 @@
 ## Cursos Disciplinas Básicas
 #### Open Source Society University
 * https://github.com/ossu/computer-science 
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)]
+![Open Source Society University - Computer Science(https://img.shields.io/badge/OSSU-computer--science-blue.svg)]
 * https://trello.com/b/SC3CuD6C/ci%C3%AAncia-da-computa%C3%A7%C3%A3o
