@@ -2,12 +2,12 @@
 
 ## Produtividade
 #### Markdown
-* https://guides.github.com/features/mastering-markdown/
+* https://guides.github.com/features/mastering-markdown
 ## Cursos Gerais
-* http://nand2tetris.org/* 
+* http://nand2tetris.org
 
 ## Links imperdíveis
-* http://www.openbookproject.net/
+* http://www.openbookproject.net
 
 ## Livros
 * Clean Code 
@@ -21,12 +21,12 @@
 #### Visual Studio Code  
 * https://code.visualstudio.com/docs
 #### Sublime 
-* https://www.sublimetext.com/
+* https://www.sublimetext.com
 #### VIM 
-* https://vim-adventures.com/ 
-* https://vim.vicramon.com/
+* https://vim-adventures.com 
+* https://vim.vicramon.com
 #### Git
-* https://guides.github.com/
+* https://guides.github.com
 * https://github.com/tiimgreen/github-cheat-sheet
 
 ## Open Source Computer Science
