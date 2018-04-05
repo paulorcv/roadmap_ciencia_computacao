@@ -1,14 +1,10 @@
 # Roadmap Ciência da Computação
 
-## Trelo do andamento
-* https://trello.com/b/SC3CuD6C/ci%C3%AAncia-da-computa%C3%A7%C3%A3o
-
 ## Produtividade
 #### Markdown
 * https://guides.github.com/features/mastering-markdown/
 ## Cursos Gerais
-* http://nand2tetris.org/
-* 
+* http://nand2tetris.org/* 
 
 ## Links imperdíveis
 * http://www.openbookproject.net/
@@ -37,3 +33,4 @@
 #### Open Source Society University
 * https://github.com/ossu/computer-science 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)]
+* https://trello.com/b/SC3CuD6C/ci%C3%AAncia-da-computa%C3%A7%C3%A3o
