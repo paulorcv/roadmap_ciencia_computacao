@@ -20,6 +20,11 @@
 * Domain Driven Design - Eric Evans e Julio Couto Novais Tiberio
 * Algorithms - Robert Sedgewick 
 * The Art of Computer Programming - Donald Ervin Knuth 
+*	Modern Operating Systems - Andrew S. Tanenbaum 
+* Patterns of Enterprise Application Architecture - Martin Fowler 
+* Introduction to the Theory of Computation - Michael Sipser
+* Compilers: Principles, Techniques, and Tools - Alfred V. Aho 
+* The Algorithm Design Manual - Steven S. Skiena (Goodreads Author) 
 
 
 
@@ -36,15 +41,12 @@
 * https://github.com/tiimgreen/github-cheat-sheet
 
 
-
-
-
 ## Cursos Disciplinas Básicas
 
 #### Open Source Computer Science
   <a href="https://github.com/ossu/computer-science">
 	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
-  
+
 #### Trelo pra mostrar progresso
 * https://trello.com/b/SC3CuD6C/ci%C3%AAncia-da-computa%C3%A7%C3%A3o
