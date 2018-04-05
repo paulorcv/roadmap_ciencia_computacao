@@ -1,5 +1,7 @@
 # Roadmap Ciência da Computação
 
+## Trelo do andamento
+* https://trello.com/b/SC3CuD6C/ci%C3%AAncia-da-computa%C3%A7%C3%A3o
 
 ## Produtividade
 #### Markdown
