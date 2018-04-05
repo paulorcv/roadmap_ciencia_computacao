@@ -1,8 +1,9 @@
 # Roadmap Ciência da Computação
 
 
-## Assuntos
-* Markdown
+## Produtividade
+#### Markdown
+* https://guides.github.com/features/mastering-markdown/
 ## Cursos Gerais
 * http://nand2tetris.org/
 * 
@@ -11,13 +12,26 @@
 * http://www.openbookproject.net/
 
 ## Livros
-* 
+* Clean Code 
+* The Mythical Man-Month	
+* Code Complete 2e
+* Refactoring
+* The Pragmatic Programmer
+* Design Patterns: Elements of Reusable Object-Oriented Software
 
 ## Ferramentas / IDEs
-* Visual Studio Code  https://code.visualstudio.com/
-* Sublime https://www.sublimetext.com/
-* VIM
-* Git
+#### Visual Studio Code  
+* https://code.visualstudio.com/docs
+#### Sublime 
+* https://www.sublimetext.com/
+#### VIM 
+* https://vim-adventures.com/ 
+* https://vim.vicramon.com/
+#### Git
+* https://guides.github.com/
+* https://github.com/tiimgreen/github-cheat-sheet
 
 ## Cursos Disciplinas Básicas
-* 
+#### Open Source Society University
+* https://github.com/ossu/computer-science 
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)]
