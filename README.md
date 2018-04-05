@@ -29,9 +29,9 @@
 * https://guides.github.com/
 * https://github.com/tiimgreen/github-cheat-sheet
 
-
-[![Open Source Society University - Computer Science]
-* https://github.com/ossu/computer-science 
+  <a href="https://github.com/ossu/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>
 
 ## Cursos Disciplinas Básicas
 (https://img.shields.io/badge/OSSU-computer--science-blue.svg)]
