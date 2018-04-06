@@ -26,8 +26,6 @@
 * Compilers: Principles, Techniques, and Tools - Alfred V. Aho 
 * The Algorithm Design Manual - Steven S. Skiena (Goodreads Author) 
 
-
-
 ## Ferramentas / IDEs
 #### Visual Studio Code  
 * https://code.visualstudio.com/docs
@@ -40,7 +38,6 @@
 * https://guides.github.com
 * https://github.com/tiimgreen/github-cheat-sheet
 
-
 ## Cursos Disciplinas Básicas
 
 #### Open Source Computer Science
@@ -50,3 +47,7 @@
 
 #### Trelo pra mostrar progresso
 * https://trello.com/b/SC3CuD6C/ci%C3%AAncia-da-computa%C3%A7%C3%A3o
+
+## Artigos 
+
+* [Martin Fowler - Agile Fluency](https://martinfowler.com/articles/agileFluency.html)
