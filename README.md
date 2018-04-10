@@ -8,6 +8,7 @@
 
 ## Links imperdíveis
 * http://www.openbookproject.net
+* https://frontendmasters.com/books/front-end-handbook/2018/
 
 ## Livros
 * Programming Pearls - Jon L. Bentley 
