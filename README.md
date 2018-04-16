@@ -28,6 +28,7 @@
 * Introduction to the Theory of Computation - Michael Sipser
 * Compilers: Principles, Techniques, and Tools - Alfred V. Aho 
 * The Algorithm Design Manual - Steven S. Skiena (Goodreads Author) 
+* How Computers Work, Tenth Edition - Ron White
 
 ## Ferramentas / IDEs
 #### Visual Studio Code  
