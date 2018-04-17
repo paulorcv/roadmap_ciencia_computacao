@@ -12,6 +12,7 @@
 * http://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/
 * https://caspervonb.github.io/toneofsorting/
 * https://jeffreykegler.github.io/personal/timeline_v3 
+* https://sdevprog.blogspot.com.br/2018/04/overview-of-efficient-programming.html
 
 ## Livros
 * Programming Pearls - Jon L. Bentley 
