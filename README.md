@@ -11,6 +11,7 @@
 * https://frontendmasters.com/books/front-end-handbook/2018/
 * http://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/
 * https://caspervonb.github.io/toneofsorting/
+* https://jeffreykegler.github.io/personal/timeline_v3 
 
 ## Livros
 * Programming Pearls - Jon L. Bentley 
