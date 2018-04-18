@@ -11,8 +11,6 @@
 * https://frontendmasters.com/books/front-end-handbook/2018/
 * http://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion/
 * https://caspervonb.github.io/toneofsorting/
-* https://jeffreykegler.github.io/personal/timeline_v3 
-* https://sdevprog.blogspot.com.br/2018/04/overview-of-efficient-programming.html
 
 ## Livros
 * Programming Pearls - Jon L. Bentley 
@@ -57,3 +55,5 @@
 ## Artigos 
 
 * [Martin Fowler - Agile Fluency](https://martinfowler.com/articles/agileFluency.html)
+* https://jeffreykegler.github.io/personal/timeline_v3 
+* https://sdevprog.blogspot.com.br/2018/04/overview-of-efficient-programming.html
